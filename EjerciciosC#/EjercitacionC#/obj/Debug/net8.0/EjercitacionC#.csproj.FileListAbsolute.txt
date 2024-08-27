@@ -1,0 +1,14 @@
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\EjercitacionC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\EjercitacionC#.AssemblyInfoInputs.cache
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\EjercitacionC#.AssemblyInfo.cs
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\EjercitacionC#.csproj.CoreCompileInputs.cache
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\bin\Debug\net8.0\EjercitacionC#.exe
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\bin\Debug\net8.0\EjercitacionC#.deps.json
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\bin\Debug\net8.0\EjercitacionC#.runtimeconfig.json
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\bin\Debug\net8.0\EjercitacionC#.dll
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\bin\Debug\net8.0\EjercitacionC#.pdb
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\EjercitacionC#.dll
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\refint\EjercitacionC#.dll
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\EjercitacionC#.pdb
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\EjercitacionC#.genruntimeconfig.cache
+C:\Users\SecoC\Desktop\EjerciciosC#\EjercitacionC#\obj\Debug\net8.0\ref\EjercitacionC#.dll
